@@ -92,7 +92,7 @@ if __name__ == '__main__':
     #angle_list : [135.0, 90.0, 225.0, 180.0, ...]
     time.sleep(6)
     buildMap(angle_list)
-    #
+    #for the offset (in miliseconds) to put in for map, for me it was the second value of press_list plus 130 ms : press_list[1]*1000 + 130
 
     
 
