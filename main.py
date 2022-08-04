@@ -82,7 +82,7 @@ def buildMap(angle_list):
 if __name__ == '__main__':
     music_name = "Rakuen.wav"
     bpm = 196
-    resolution = 4 #resolution = 4 for every 45 degree angles and resolution = 8 for 22.5 degree angles
+    resolution = 4
     exit_key = 'q'
     press_key = 'e'
     
